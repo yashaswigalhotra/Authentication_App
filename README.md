@@ -4,5 +4,9 @@ This App is connected with the Firebase which sends the verification code on you
 
 ![pi](https://user-images.githubusercontent.com/67858387/105250016-095dc500-5b9f-11eb-9997-60da1e221ca0.jpeg)
 
-![pic55](https://user-images.githubusercontent.com/67858387/105249934-ee8b5080-5b9e-11eb-81ae-bf3661972650.jpeg)
+![input](https://user-images.githubusercontent.com/67858387/105306448-41d2c280-5be2-11eb-89f4-d8ddbfaf457b.jpeg)
+
+![otp](https://user-images.githubusercontent.com/67858387/105306701-51520b80-5be2-11eb-8fd7-7734c4442e81.jpeg)
+
+![verify](https://user-images.githubusercontent.com/67858387/105306521-45fee000-5be2-11eb-98bd-8edfeaf7cb1f.jpeg)
 
